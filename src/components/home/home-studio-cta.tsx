@@ -33,7 +33,7 @@ export function HomeStudioCta() {
       >
         <Image
           src="/home/hero.jpg"
-          alt=""
+          alt="Senseoza team delivering AI-powered digital marketing campaigns for businesses in Pune"
           fill
           sizes="(min-width: 1024px) 72rem, 100vw"
           className="object-cover opacity-25"
