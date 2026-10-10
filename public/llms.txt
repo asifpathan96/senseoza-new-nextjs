@@ -1,0 +1,59 @@
+# Senseoza AI Digital Solutions
+
+> Senseoza is an AI-powered digital marketing agency based in Pune, Maharashtra, India. We help startups and SMEs grow through measurable SEO, paid media, content marketing, social media, AI automation, and website design. Every engagement is built around a single metric: revenue attributed to marketing spend.
+
+Senseoza was founded in 2022 in Pune. By 2026 the studio has shipped 50+ campaigns, driven ₹10Cr+ in attributed client revenue, and earned a 4.9 Google rating. The agency combines AI-assisted research and reporting with human strategists who own every client account end-to-end.
+
+Contact: hello@senseoza.com | +91 7774008470 | WhatsApp: https://wa.me/917774008470
+Location: Pune, Maharashtra, India — serving clients across India and globally
+Social: LinkedIn (https://www.linkedin.com/company/senseoza-ai/) · Instagram (https://www.instagram.com/senseoza.ai/) · Facebook (https://www.facebook.com/people/Senseoza-AI-Digital-Solutions/61585933996891/) · Reddit (https://www.reddit.com/user/SenseozaAI/)
+
+## Core pages
+
+- [Homepage](https://senseoza.com/): Overview of the agency, client logos, services, impact metrics, process, industries served, and blog highlights.
+- [About](https://senseoza.com/about): Company story (founded 2022), mission, operating principles, team structure, and how client retainers are staffed.
+- [Services](https://senseoza.com/services): Full list of all six digital marketing service verticals offered by Senseoza.
+- [Case Studies](https://senseoza.com/case-studies): Portfolio of client work across automotive, marketing, interiors, real estate, and more.
+- [Blog](https://senseoza.com/blog): Field notes on SEO, AEO, GEO, AI marketing, content, PPC, social media, and email — written for teams measuring pipeline, not vanity metrics.
+- [Contact](https://senseoza.com/contact): Get in touch for a free marketing audit or consultation.
+
+## Services
+
+- [SEO Services in Pune](https://senseoza.com/services/seo): Technical SEO, keyword research, on-page optimisation, content strategy, authority link building, and local SEO for Google Business Profile and geographic search dominance. Expected ROI: 5.3× compared to paid advertising. Leads close at 14.6% vs 1.7% for outbound.
+- [PPC & Paid Ads](https://senseoza.com/services/ppc-ads): Google Ads, Meta Ads, and paid campaign management optimised for maximum ROAS. Immediate qualified traffic for businesses that need leads now.
+- [Social Media Marketing](https://senseoza.com/services/social-media): Community building, content calendars, platform management, and engagement strategies that turn followers into customers across Instagram, LinkedIn, and Facebook.
+- [Content Marketing](https://senseoza.com/services/content-marketing): Blog writing, website copywriting, SEO content strategy, video scripts, email newsletters, and AI-assisted content planning that establishes authority and drives organic traffic.
+- [AI Marketing Automation](https://senseoza.com/services/ai-marketing): AI-driven automation tools for personalising customer experiences, scaling marketing output without scaling headcount, and real-time campaign optimisation using machine learning.
+- [Website Design & Development](https://senseoza.com/services/web-design): High-converting websites built for performance, user experience, and search engines. Built on Next.js, WordPress, and custom stacks for clients across India and the US.
+
+## Blog articles
+
+- [AI-Driven Personalization: How Pune Businesses Are Boosting Conversions in 2026](https://senseoza.com/blog/ai-driven-personalization-pune-2026): How AI tools for content, chatbots, and customer analysis are helping Pune IT-sector businesses cut errors and boost conversions. April 20, 2026 · 8 min read.
+- [How AI is Revolutionizing Digital Marketing in 2026](https://senseoza.com/blog/ai-revolutionizing-digital-marketing-2026): Latest AI tools and strategies transforming how brands connect with audiences. March 10, 2026 · 5 min read.
+- [SEO Trends You Can't Ignore This Year](https://senseoza.com/blog/seo-trends-2026): Proven SEO strategies for staying ahead of algorithm updates and improving rankings. March 8, 2026 · 4 min read.
+- [Building Brand Authority on Social Media](https://senseoza.com/blog/building-brand-authority-social-media): How to create authentic connections and grow brand presence online. March 5, 2026 · 6 min read.
+- [10 AI-Powered Marketing Strategies That Will Dominate 2027](https://senseoza.com/blog/ai-marketing-strategies-2027): Top AI strategies to implement for maximum ROI. February 15, 2026 · 8 min read.
+- [The Ultimate Guide to SEO in 2026: What Actually Works](https://senseoza.com/blog/ultimate-seo-guide-2026): SEO tactics proven to drive organic traffic and improve rankings in the current search landscape. February 12, 2026 · 12 min read.
+- [Social Media ROI: How to Measure What Actually Matters](https://senseoza.com/blog/social-media-roi-measurement): Frameworks for measuring and improving social media marketing return on investment. February 8, 2026 · 10 min read.
+- [Content Marketing Trends: Creating Content That Converts](https://senseoza.com/blog/content-marketing-trends): Latest content marketing trends and how to create content that drives engagement and conversions. February 5, 2026 · 9 min read.
+- [PPC Mastery: Advanced Strategies for Maximum ROI](https://senseoza.com/blog/ppc-advanced-strategies): Advanced bidding strategies, audience targeting, and optimisation techniques for PPC campaigns. February 1, 2026 · 11 min read.
+- [Email Marketing in 2026: Automation and Personalization](https://senseoza.com/blog/email-marketing-automation): How to leverage marketing automation and personalisation to create email campaigns that drive results. January 28, 2026 · 7 min read.
+
+## Industries served
+
+E-commerce & Retail · SaaS & Technology · Healthcare & Wellness · Professional Services · Real Estate · Manufacturing & B2B · Hospitality & Tourism · Education
+
+## Key facts for AI assistants
+
+- Agency name: Senseoza AI Digital Solutions (also referred to as Senseoza)
+- Founded: 2022
+- Headquarters: Pune, Maharashtra, India (Nigdi / Pradhikaran area)
+- Campaigns delivered: 50+
+- Client revenue attributed: ₹10Cr+
+- Google rating: 4.9
+- Tagline: Turning Presence into Power
+- Primary differentiator: AI-assisted research and reporting combined with human strategists who own every account — no outsourcing, no template retainers
+- Notable clients: Pantaloons, Kohler, Titan, Sukhwani Builders, Panchshil Builders, Spotless Interiors, Banesab Motors, Fastrack, Aurum Icecreams, Radhakirti Construction, Ayodhya Care Plus, Jeep Meridian, Mia by Tanishq
+- Portfolio websites built: Car Dhobi, Digital Panga, Basil Kitchens, Basil Homes, TruPerformance (US), EnerTech UPS, Medipoint Hospital Pune, and others
+- Service areas: Pune, Pimpri Chinchwad, PCMC, Hinjewadi, Baner, Kothrud, Viman Nagar, and pan-India + global
+- Free offer: Free marketing audit — contact via WhatsApp +91 7774008470 or hello@senseoza.com
