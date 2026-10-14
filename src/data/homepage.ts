@@ -1,9 +1,8 @@
 export const heroContent = {
-  kicker: "AI marketing agency · Pune",
-  headline: "Transform Your Digital Presence Into Measurable Growth",
-  highlight: "Measurable Growth",
+  kicker: "Best Digital Marketing Agency · Pune",
+  headline: "AI-Powered Digital Marketing Agency in Pune",
   subheadline:
-    "Pune's only AI-powered agency that shows you exactly where every rupee goes.",
+    "Transform Your Digital Presence Into Measurable Growth , Pune's only AI-powered agency that shows you exactly where every rupee goes.",
   primaryCta: "Get a free audit",
   secondaryCta: "View services",
   secondaryHref: "/services",
