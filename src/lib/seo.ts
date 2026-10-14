@@ -7,7 +7,7 @@ export const siteConfig = {
   name: "Senseoza AI Digital Solutions",
   shortName: "Senseoza",
   description:
-    "Boost your brand with AI-driven marketing, SEO, influencer services, and content strategies. Senseoza helps startups and SMEs in Pune and worldwide achieve measurable growth.",
+    "Pune's AI-powered digital marketing agency. SEO, AEO, GEO, Influencer Marketing,  PPC, content & web design that turns spend into revenue. 50+ campaigns · ₹10Cr+ driven. Free audit.",
   url: SITE_URL,
   ogImage: `${SITE_URL}/og-image.jpg`,
   email: "hello@senseoza.com",
