@@ -11,8 +11,8 @@ export const siteConfig = {
   url: SITE_URL,
   ogImage: `${SITE_URL}/og-image.jpg`,
   email: "hello@senseoza.com",
-  phone: "+91 7774008470",
-  whatsapp: "917774008470",
+  phone: "+91 9168411743",
+  whatsapp: "919168411743",
   address: {
     street: "Pradhikaran",
     city: "Pune",
